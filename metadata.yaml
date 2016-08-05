@@ -1,0 +1,28 @@
+_repo: The-Precipice_7307
+_version: 0.0.1
+alternative_title: Obryv. English
+creator:
+  author:
+    agent_name: Goncharov, Ivan Aleksandrovich
+    alias: Гончаров, Иван Александрович
+    birthdate: 1812
+    deathdate: 1891
+    gutenberg_agent_id: '2418'
+    url: http://www.gutenberg.org/2009/agents/2418
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Goncharov
+description: This text is condensed from the original.
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- 1533-1917 -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Love stories'
+- GITenberg
+title: The Precipice
+url: http://www.gutenberg.org/ebooks/7307
