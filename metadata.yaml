@@ -1,6 +1,9 @@
 _repo: The-Precipice_7307
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Obryv. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goncharov, Ivan Aleksandrovich
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2418
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Goncharov
 description: This text is condensed from the original.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7307#The-Precipice
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
